@@ -114,7 +114,8 @@ header, footer, section {
 
 div.shell {
   display: block;
-  width: 670px;
+  min-width: 670px;
+  width: 900px;
   margin: 0 auto;
 }
 
